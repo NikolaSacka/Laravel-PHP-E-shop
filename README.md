@@ -1,3 +1,5 @@
+This is project i've been working on for about a week. I used Laravel framework for Php. This project is for my class named Programming of Web Applications and it is preview of simple eShop that can be modified into bigger, more complex web site.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
