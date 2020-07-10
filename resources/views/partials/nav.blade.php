@@ -86,7 +86,7 @@
     </div>
         <div id="menu" class="container">
             <ul>
-                <li><a href="/" accesskey="1" title="">Homepage</a></li>
+                <li><a href="public/" accesskey="1" title="">Homepage</a></li>
                 <li><a href="design" accesskey="1" title="">Design</a></li>
                 <li><a href="shop" accesskey="2" title="">Shop</a></li>
                 <li><a href="about" accesskey="3" title="">About Template</a></li>
